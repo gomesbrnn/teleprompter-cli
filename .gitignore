@@ -1,0 +1,22 @@
+## Compilação e Binários do .NET
+[Bb]in/
+[Oo]bj/
+publish/
+
+## Arquivos de símbolos e depuração
+*.pdb
+*.ilk
+
+## IDEs e Editores
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Logs e Arquivos Temporários
+*.log
+*.tmp
+*.bak
